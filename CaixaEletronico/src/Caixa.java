@@ -4,7 +4,9 @@ public class Caixa {
   int cem = 0, cinquenta = 0, dez = 0, cinco = 0, dois = 0;
   int temp;
   
-  
+   temp = saque;
+   //nada//
+ 
  if(temp >= 100){
    cem = saque / 100;
    temp = saque % 100;
