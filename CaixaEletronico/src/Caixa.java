@@ -17,9 +17,7 @@ public class Caixa {
    temp = temp % 50;
  }
  
- if(temp >= 10){
-   dez = saque / 10;
-   temp = temp % 10;
+ 
  }
 
  if(temp >= 5){
